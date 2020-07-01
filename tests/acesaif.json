@@ -1,0 +1,37 @@
+{
+  "acesaif": [
+    {
+      "title": "Anthar Yudh",
+      "href": "https://medium.com/@acesaif/anthar-yudh-e27d65554ec6",
+      "publication": "Self",
+      "meta_time_data": {
+        "date_published": "Feb 18, 2018",
+        "read_time": "3 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/0*p8xC81_EDBrzBWq6.jpg?q=20",
+      "total_applauds": null
+    },
+    {
+      "title": "Puppets of Time: The Events",
+      "href": "https://medium.com/@acesaif/puppets-of-time-the-events-6e1777b015c5",
+      "publication": "Self",
+      "meta_time_data": {
+        "date_published": "Nov 16, 2017",
+        "read_time": "2 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/1*id37oJF3E-gUg4ACkyIfBA.jpeg?q=20",
+      "total_applauds": 2
+    },
+    {
+      "title": "SEA — SON — SURFACE",
+      "href": "https://medium.com/@acesaif/sea-son-surface-c3fe6448873d",
+      "publication": "Self",
+      "meta_time_data": {
+        "date_published": "Dec 1, 2016",
+        "read_time": "3 min read"
+      },
+      "image_src": null,
+      "total_applauds": 6
+    }
+  ]
+}

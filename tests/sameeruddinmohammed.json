@@ -1,0 +1,59 @@
+{
+  "sameeruddinmohammed": [
+    {
+      "title": "Live Streaming Visualization with JupyterDash",
+      "href": "https://medium.com/analytics-vidhya/live-streaming-visualization-with-jupyterdash-dded3b9c93c5",
+      "publication": "Analytics Vidhya",
+      "meta_time_data": {
+        "date_published": "May 29",
+        "read_time": "2 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/1*kJXYqlBfnwkV_gkIoDYuHw.jpeg",
+      "total_applauds": 1
+    },
+    {
+      "title": "Automating the blogs collection for a web portal using python web scraping",
+      "href": "https://medium.com/analytics-vidhya/automating-the-blogs-collection-for-a-web-portal-using-python-web-scraping-94442dd98301",
+      "publication": "Analytics Vidhya",
+      "meta_time_data": {
+        "date_published": "Jan 31",
+        "read_time": "5 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/1*zB9EyTQyJwOC42QVfatjfg.jpeg",
+      "total_applauds": 5
+    },
+    {
+      "title": "Image Convolution From Scratch",
+      "href": "https://medium.com/analytics-vidhya/image-convolution-from-scratch-d99bf639c32a",
+      "publication": "Analytics Vidhya",
+      "meta_time_data": {
+        "date_published": "Dec 1, 2019",
+        "read_time": "8 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/1*Fr6Umze2waDjWVHB2yzT4A.png",
+      "total_applauds": 133
+    },
+    {
+      "title": "Travelling Salesman Problem — Dynamic Programming Approach",
+      "href": "https://medium.com/analytics-vidhya/travelling-salesman-problem-dynamic-programing-approach-e1732c649c03",
+      "publication": "Analytics Vidhya",
+      "meta_time_data": {
+        "date_published": "Nov 2, 2019",
+        "read_time": "4 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/1*ADyNbd_-kjV6FaJZj9Z_fw.png",
+      "total_applauds": 25
+    },
+    {
+      "title": "Earthquake History (1965 — 2016): Data Visualization and Model Development",
+      "href": "https://medium.com/analytics-vidhya/earthquake-history-1965-2016-data-visualization-and-model-development-ee53f3ce83f6",
+      "publication": "Analytics Vidhya",
+      "meta_time_data": {
+        "date_published": "Oct 23, 2019",
+        "read_time": "6 min read"
+      },
+      "image_src": "https://miro.medium.com/max/60/1*VsnKiAQnLR2MY97oo3TmEQ.png",
+      "total_applauds": 85
+    }
+  ]
+}
